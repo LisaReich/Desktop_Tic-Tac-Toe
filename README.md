@@ -7,8 +7,10 @@ Tic-Tac-Toe game using the Swing graphics library. Different game modes are pres
 ## Dependencies
 - Java Swing
 ## Running the project
-To launch the service compile the file:  
-Desktop_Tic-Tac-Toe/task/src/tictactoe/ApplicationRunner.java
+To run the service from CMD:
+   1. Open CMD and go to .\Desktop_Tic-Tac-Toe
+   2. Launch gradle (the wrapper is already included in the project package): .\Desktop_Tic-Tac-Toe gradlew run
+   3. Now you may play the game :)
 ## Game Process 
 - To start the game you may either click on ```Start``` button, or choose the game mode in the ```Menu```;
 - To change player type you may either click on ```Human/Robot``` buttons (the left and the right ones), or choose the game mode in the ```Menu```;
